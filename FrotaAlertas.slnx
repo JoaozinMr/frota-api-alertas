@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FrotaAlertas/FrotaAlertas.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FrotaAlertas.Tests/FrotaAlertas.Tests.csproj" />
+  </Folder>
+</Solution>
